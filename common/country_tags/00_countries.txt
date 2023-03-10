@@ -5,8 +5,8 @@ CSP = "countries/Caspia.txt"
 BNR = "countries/Belarusian Nationalist Republic.txt"
 EUN = "countries/European Union.txt"
 CEU = "countries/Central European Union.txt"
-NFD = "countried/Nordic Federation.txt"
-
+NFD = "countries/Nordic Federation.txt"
+TST = "countries/Test.txt"
 
 
 
