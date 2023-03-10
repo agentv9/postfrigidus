@@ -9,7 +9,8 @@ NFD = "countries/Nordic Federation.txt"
 TST = "countries/Test.txt"
 TOR = "countries/Tsardom of Russia.txt"
 MUR = "countries/Murmansk.txt"
-
+ARK = "countries/Arkhangelsk.txt"
+PRM = "countries/Perm.txt"
 
 
 

@@ -55,6 +55,10 @@ ARK = {
 	color_ui = rgb{ 224 61 123 }
 }
 
+PRM = {
+	color = rgb{ 143 102 148 }
+	color_ui = rgb{ 143 102 148 }
+}
 
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
