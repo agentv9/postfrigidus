@@ -4,7 +4,7 @@ BDR = "countries/Borduria.txt"
 CSP = "countries/Caspia.txt"
 BNR = "countries/Belarusian Nationalist Republic.txt"
 EUN = "countries/European Union.txt"
-
+CEU = "countries/Central European Union.txt"
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"

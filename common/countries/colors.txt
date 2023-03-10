@@ -25,6 +25,14 @@ EUN = {
 	color_ui = rgb { 57  113  228 }
 }
 
+CEU = {
+	color = rgb { 0 100 9 }
+	color_ui = rgb { 0 100 9 }
+}
+
+
+
+
 
 
 GER = {
