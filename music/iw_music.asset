@@ -6,3 +6,11 @@ music = {
 	name = "EverythingWeKnow"
 	file = "EverythingWeKnow.ogg"
 }
+music = {
+	name = "DanceYourLifeAway"
+	file = "DanceYourLifeAway.ogg"
+}
+music = {
+	name = "PhotosAreTooBeautifulToLoose"
+	file = "PhotosAreTooBeautifulToLoose.ogg"
+}

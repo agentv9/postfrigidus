@@ -18,3 +18,23 @@ music = {
 		}
 	}
 }
+music_station = "jayden_wark_station"
+music = {
+	song = "DanceYourLifeAway"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "PhotosAreTooBeautifulToLoose"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
