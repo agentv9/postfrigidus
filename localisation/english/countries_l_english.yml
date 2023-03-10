@@ -117,7 +117,32 @@
  EUN_DEF:0 "European Union"
  EUN_ADJ:0 "European Union"
 
-l_english:
+ CEU_fascism:0 "Central European Union"
+ CEU_fascism_DEF:0 "Central European Union"
+ CEU_democratic:0 "Central European Union"
+ CEU_democratic_DEF:0 "Central European Union"
+ CEU_neutrality:1 "Central European Union"
+ CEU_neutrality_DEF:1 "Central European Union"
+ CEU_communism:0 "Central European Union"
+ CEU_communism_DEF:0 "Central European Union"
+ CEU_fascism_ADJ:0 "Central European Union"
+ CEU_democratic_ADJ:0 "Central European Union"
+ CEU_neutrality_ADJ:0 "Central European Union"
+ CEU_communism_ADJ:0 "Central European Union"
+ CEU_autonomy_supervised_state:0 "$OVERLORDADJ$ Occupation Zone"
+ CEU_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Occupation Zone"
+ CEU_autonomy_puppet:0 "$OVERLORDADJ$ Central European Union"
+ CEU_autonomy_puppet_DEF:0 "$OVERLORDADJ$ Central European Union"
+ CEU_SOV_communism_autonomy_puppet:0 "$OVERLORDADJ$ Occupation Zone of Central European Union"
+ CEU_SOV_communism_autonomy_puppet_DEF:0 "the $OVERLORDADJ$ Occupation Zone of Central European Union"
+ CEU_SOV_communism_autonomy_puppet_ADJ:0 "$OVERLORDADJ$ Central European Union"
+ CEU:0 "Central European Union"
+ CEU_DEF:0 "Central European Union"
+ CEU_ADJ:0 "Central European Union"
+
+
+
+
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"
  GER_democratic:0 "German Republic"
