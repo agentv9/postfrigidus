@@ -45,6 +45,10 @@ TST = {
 	color_ui = rgb{ 255 188 0 }
 }
 
+MUR = {
+	color = rgb{ 168 166 158 }
+	color_ui = rgb{ 168 166 158 }
+}
 
 
 GER = {
