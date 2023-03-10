@@ -30,7 +30,10 @@ CEU = {
 	color_ui = rgb { 0 100 9 }
 }
 
-
+NFD ={
+	color = rgb {252 3 3}
+	color_ui = rgb {252 3 3}
+}
 
 
 
