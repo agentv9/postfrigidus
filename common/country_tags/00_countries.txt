@@ -7,6 +7,7 @@ EUN = "countries/European Union.txt"
 CEU = "countries/Central European Union.txt"
 NFD = "countries/Nordic Federation.txt"
 TST = "countries/Test.txt"
+TOR = "countries/Tsardom of Russia.txt"
 
 
 

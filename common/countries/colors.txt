@@ -35,6 +35,11 @@ NFD ={
 	color_ui = rgb {252 3 3}
 }
 
+TOR = {
+	color = rgb{ 250 191 30 }
+	color_ui = rgb{ 250 191 30 }
+}
+
 TST = {
 	color = rgb{ 255 188 0 }
 	color_ui = rgb{ 255 188 0 }
