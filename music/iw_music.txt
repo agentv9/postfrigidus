@@ -1,16 +1,6 @@
 music_station = "jayden_wark_station"
 music = {
-	song = "AtHome"
-	chance = {
-		factor = 0
-		modifier = {
-			factor = 100
-		}
-	}
-}
-music_station = "jayden_wark_station"
-music = {
-	song = "EverythingWeKnow"
+	song = "WhatsInHisHead"
 	chance = {
 		factor = 0
 		modifier = {
@@ -30,7 +20,67 @@ music = {
 }
 music_station = "jayden_wark_station"
 music = {
+	song = "AtHome"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "SlipAway"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "MrDusky"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "EverythingWeKnow"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
 	song = "PhotosAreTooBeautifulToLoose"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "TheVisionIsDead"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+music_station = "jayden_wark_station"
+music = {
+	song = "CountryBoyInTheSky"
 	chance = {
 		factor = 0
 		modifier = {

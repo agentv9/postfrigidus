@@ -1,16 +1,36 @@
 music = {
-	name = "AtHome"
-	file = "AtHome.ogg"
-}
-music = {
-	name = "EverythingWeKnow"
-	file = "EverythingWeKnow.ogg"
+	name = "WhatsInHisHead"
+	file = "WhatsInHisHead.ogg"
 }
 music = {
 	name = "DanceYourLifeAway"
 	file = "DanceYourLifeAway.ogg"
 }
 music = {
+	name = "AtHome"
+	file = "AtHome.ogg"
+}
+music = {
+	name = "SlipAway"
+	file = "SlipAway.ogg"
+}
+music = {
+	name = "MrDusky"
+	file = "MrDusky.ogg"
+}
+music = {
+	name = "EverythingWeKnow"
+	file = "EverythingWeKnow.ogg"
+}
+music = {
 	name = "PhotosAreTooBeautifulToLoose"
 	file = "PhotosAreTooBeautifulToLoose.ogg"
+}
+music = {
+	name = "TheVisionIsDead"
+	file = "TheVisionIsDead.ogg"
+}
+music = {
+	name = "CountryBoyInTheSky"
+	file = "CountryBoyInTheSky.ogg"
 }
