@@ -1,0 +1,10 @@
+music_station = "jayden_wark_station"
+music = {
+	song = "AtHome"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
