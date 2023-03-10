@@ -1,0 +1,16 @@
+version="0.0.5"
+picture="thumbnail.png"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Ideologies"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+}
+name="Post Frigidus"
+supported_version="1.12.10"
+remote_file_id="2940865187"

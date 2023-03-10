@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_post_frigidus_bookmark"
+		texturefile = "gfx/interface/post_frigidus_bookmark.dds"
+	}
+
+	spriteType = {
+		name = "GFX_pre_frigidus_bookmark"
+		texturefile = "gfx/interface/pre_frigidus_bookmark.dds"
+	}
+}

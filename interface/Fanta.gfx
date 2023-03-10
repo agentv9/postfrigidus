@@ -1,0 +1,14 @@
+bitmapfonts = {
+    bitmapfont = {
+        name = "FontyMcFontface"
+        fontfiles = {
+            "gfx/fonts/fontymcfontsome"
+           
+        }
+        color = 0xffffffff
+
+        textcolors = {
+            G = { 86 172 91 }
+        }
+    }
+}

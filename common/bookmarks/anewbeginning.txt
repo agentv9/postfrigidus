@@ -1,0 +1,52 @@
+bookmarks = {
+	bookmark = {
+		name = "A_NEW_BEGINNING_NAME"
+		desc = "A_NEW_BEGINNING_DESC"
+		date = 2025.2.15.12
+		picture = "GFX_pre_frigidus_bookmark"
+		default_country = "SYL"
+	
+		SYL = {
+			history = SYL_A_NEW_BEGINNING_DESC
+			ideology = democratic
+			ideas={
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		BDR = {
+			history = BDR_A_NEW_BEGINNING_DESC
+			ideology = fascism
+			ideas={
+			
+			}
+			focuses = {
+			
+			}
+		}
+		
+		CSP = {
+			
+			history = CSP_POSTFRIGIDUS_DESC
+			ideology = fascism
+			ideas={
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

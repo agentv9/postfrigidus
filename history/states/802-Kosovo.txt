@@ -1,0 +1,29 @@
+
+state={
+	id=802
+	name="STATE_802"
+state_category = metropolis
+	history={
+		victory_points = {
+			6940 3 
+		}
+		owner = SYL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 6
+			air_base = 3
+		}
+		add_core_of = SYL
+		
+
+	}
+
+
+	provinces={
+		6940 9849 9874 9890 
+	}
+	manpower=616000
+	
+
+	local_supplies=0.0 
+}

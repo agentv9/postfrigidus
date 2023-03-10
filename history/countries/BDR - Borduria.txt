@@ -1,0 +1,33 @@
+﻿capital = 48
+
+OOB = "BDR_2000"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+create_country_leader = {
+	name = "Boris III"
+	desc = ""
+	picture = "portrait_Boris_III.dds"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 100
+}
+
+set_convoys = 5
+
