@@ -50,6 +50,11 @@ MUR = {
 	color_ui = rgb{ 168 166 158 }
 }
 
+ARK = {
+	color = rgb{ 224 61 123 }
+	color_ui = rgb{ 224 61 123 }
+}
+
 
 GER = {
 	color = HSV { 0.1 0.15 0.4 }

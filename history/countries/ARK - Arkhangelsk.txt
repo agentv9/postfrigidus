@@ -1,6 +1,6 @@
 ﻿capital = 224
 
-OOB = "MUR_2000"
+OOB = "ARK_2000"
 
 set_technology = {
 	infantry_weapons = 1
