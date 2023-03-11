@@ -45,6 +45,11 @@ TST = {
 	color_ui = rgb { 255 188 0 }
 }
 
+KBA = {
+	color = rgb { 222 91 64 }
+	color_ui = rgb { 222 91 64 }
+}
+
 ROD = {
 	color = rgb { 141 173 224 }
 	color_ui = rgb { 141 173 224 }

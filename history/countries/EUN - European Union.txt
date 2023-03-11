@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Nicolai Belinski"
+	name = "Charles Van Francois"
 	desc = ""
 	picture = "portrait_Nicolai_Belinski.dds"
 	ideology = conservatism

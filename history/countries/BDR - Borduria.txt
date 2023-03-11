@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Boris III"
+	name = "Borislav Irmak"
 	desc = ""
 	picture = "portrait_Boris_III.dds"
 	ideology = fascism_ideology

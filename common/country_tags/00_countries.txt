@@ -13,6 +13,7 @@ ARK = "countries/Arkhangelsk.txt"
 PRM = "countries/Perm.txt"
 URL = "countries/Ural Republic.txt"
 ROD = "countries/Don.txt"
+KBA = "countries/Kuban.txt"
 
 
 

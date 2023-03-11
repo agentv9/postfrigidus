@@ -1,6 +1,6 @@
-capital = 110
+﻿capital = 234
 
-OOB = "NFD_2000"
+OOB = "KBA_2000"
 
 set_technology = {
 	infantry_weapons = 1
@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Asbjørn Stava"
+	name = "Vadym Ivashchenko"
 	desc = ""
 	picture = "portrait_Nicolai_Belinski.dds"
 	ideology = conservatism

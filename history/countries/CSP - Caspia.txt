@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Shanty Rhamirez"
+	name = "Shäntyev Ramzirov"
 	desc = ""
 	picture = "portrait_chl_arturo_alessandri.dds"
 	ideology = fascism_ideology
