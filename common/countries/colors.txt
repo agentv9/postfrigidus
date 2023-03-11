@@ -45,6 +45,11 @@ TST = {
 	color_ui = rgb { 255 188 0 }
 }
 
+ROD = {
+	color = rgb { 141 173 224 }
+	color_ui = rgb { 141 173 224 }
+}
+
 
 
 MUR = {
@@ -58,16 +63,15 @@ ARK = {
 }
 
 PRM = {
-	color = rgb{ 143 102 148 }
+	color = rgb { 143 102 148 }
 	color_ui = rgb{ 143 102 148 }
 }
 
 URL = {
-	color = rgb{ 147 132 150 }
+	color = rgb { 147 132 150 }
 	color_ui = rgb{ 147 132 150 }
 }
-
-
+	
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
