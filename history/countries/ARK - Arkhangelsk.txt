@@ -1,4 +1,4 @@
-﻿capital = 224
+﻿capital = 214
 
 OOB = "ARK_2000"
 

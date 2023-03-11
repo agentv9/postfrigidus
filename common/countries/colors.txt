@@ -60,6 +60,11 @@ PRM = {
 	color_ui = rgb{ 143 102 148 }
 }
 
+URL = {
+	color = rgb{ 68 64 69 }
+	color_ui = rgb{ 68 64 69 }
+}
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
