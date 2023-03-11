@@ -14,7 +14,7 @@ PRM = "countries/Perm.txt"
 URL = "countries/Ural Republic.txt"
 ROD = "countries/Don.txt"
 KBA = "countries/Kuban.txt"
-
+FTU = "countries/Free Territory of Ukraine.txt"
 
 
 
