@@ -1,6 +1,6 @@
-﻿capital = 213
+﻿capital = 224
 
-OOB = "MUR_2000"
+OOB = "PRM_2000"
 
 set_technology = {
 	infantry_weapons = 1
@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Nikita Rurik"
+	name = "Agripin Pushkin"
 	desc = ""
 	picture = "portrait_Nicolai_Belinski.dds"
 	ideology = conservatism

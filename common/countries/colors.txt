@@ -57,6 +57,15 @@ ARK = {
 	color_ui = rgb { 224 61 123 }
 }
 
+PRM = {
+	color = rgb{ 143 102 148 }
+	color_ui = rgb{ 143 102 148 }
+}
+
+URL = {
+	color = rgb{ 147 132 150 }
+	color_ui = rgb{ 147 132 150 }
+}
 
 
 

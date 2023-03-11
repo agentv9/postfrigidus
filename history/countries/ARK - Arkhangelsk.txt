@@ -1,4 +1,4 @@
-﻿capital = 224
+﻿capital = 214
 
 OOB = "ARK_2000"
 
@@ -9,7 +9,7 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Nikita Rurik"
+	name = "Yakov Novikov"
 	desc = ""
 	picture = "portrait_Nicolai_Belinski.dds"
 	ideology = conservatism
