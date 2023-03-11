@@ -60,7 +60,10 @@ ROD = {
 	color_ui = rgb { 141 173 224 }
 }
 
-
+ROD = {
+	color = rgb { 179 11 0 }
+	color_ui = rgb { 179 11 0 }
+}
 
 MUR = {
 	color = rgb { 168 166 158 }

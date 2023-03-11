@@ -12,21 +12,21 @@ create_country_leader = {
 	name = "The People"
 	desc = ""
 	picture = "portrait_Nicolai_Belinski.dds"
-	ideology = anarchist_communism
+	ideology = anarchism
 	traits = {
 		
 	}
 }
 
 set_politics = {
-	ruling_party = communist
+	ruling_party = neutrality
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	neutrality = 100
 }
 
 set_convoys = 5
