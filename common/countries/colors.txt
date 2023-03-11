@@ -36,24 +36,28 @@ NFD ={
 }
 
 TOR = {
-	color = rgb{ 250 191 30 }
-	color_ui = rgb{ 250 191 30 }
+	color = rgb { 250 191 30 }
+	color_ui = rgb { 250 191 30 }
 }
 
 TST = {
-	color = rgb{ 255 188 0 }
-	color_ui = rgb{ 255 188 0 }
+	color = rgb { 255 188 0 }
+	color_ui = rgb { 255 188 0 }
 }
 
+
+
 MUR = {
-	color = rgb{ 168 166 158 }
-	color_ui = rgb{ 168 166 158 }
+	color = rgb { 168 166 158 }
+	color_ui = rgb { 168 166 158 }
 }
 
 ARK = {
-	color = rgb{ 224 61 123 }
-	color_ui = rgb{ 224 61 123 }
+	color = rgb { 224 61 123 }
+	color_ui = rgb { 224 61 123 }
 }
+
+
 
 
 GER = {

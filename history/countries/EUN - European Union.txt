@@ -18,6 +18,9 @@ create_country_leader = {
 	}
 }
 
+puppet = TUN
+
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1933.3.5"
