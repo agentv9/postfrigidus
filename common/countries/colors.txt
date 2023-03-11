@@ -65,6 +65,11 @@ URL = {
 	color_ui = rgb{ 147 132 150 }
 }
 
+ROD = {
+	color = rgb{ 141 173 224 }
+	color_ui = rgb{ 141 173 224 }
+}
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
