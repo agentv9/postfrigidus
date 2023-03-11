@@ -50,6 +50,11 @@ KBA = {
 	color_ui = rgb { 222 91 64 }
 }
 
+FTU = {
+	color = rgb { 10 10 10 }
+	color_ui = rgb{ 10 10 10 }
+}
+
 ROD = {
 	color = rgb { 141 173 224 }
 	color_ui = rgb { 141 173 224 }
