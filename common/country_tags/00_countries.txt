@@ -15,7 +15,7 @@ URL = "countries/Ural Republic.txt"
 ROD = "countries/Don.txt"
 KBA = "countries/Kuban.txt"
 FTU = "countries/Free Territory of Ukraine.txt"
-
+PAD = "countries/Padania.txt"
 
 
 GER	= "countries/Germany.txt"
