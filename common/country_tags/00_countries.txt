@@ -16,6 +16,15 @@ ROD = "countries/Don.txt"
 KBA = "countries/Kuban.txt"
 FTU = "countries/Free Territory of Ukraine.txt"
 PAD = "countries/Padania.txt"
+AMR = "countries/Amur.txt"
+KAM = "countries/Kamchatka.txt"
+MAG = "countries/Magadan.txt"
+SAK = "countries/Sakhalin.txt"
+SIB = "countries/Siberian Federation.txt"
+
+
+
+
 
 
 GER	= "countries/Germany.txt"
