@@ -65,6 +65,33 @@ ROD = {
 	color_ui = rgb { 179 11 0 }
 }
 
+AMR = {
+	color = rgb { 37 97 40 }
+	color_ui = rgb { 37 97 40 }
+}
+
+KAM = {
+	color = rgb { 141 150 142 }
+	color_ui = rgb { 141 150 142 }
+}
+
+MAG = {
+	color = rgb { 201 109 22 }
+	color_ui = rgb { 201 109 22 }
+}
+
+SAK = {
+	color = rgb { 47 142 163 }
+	color_ui = rgb { 47 142 163 }
+}
+
+
+SIB = {
+	color = rgb { 105 22 22 }
+	color_ui = rgb { 105 22 22 }
+}
+
+
 MUR = {
 	color = rgb { 168 166 158 }
 	color_ui = rgb { 168 166 158 }
